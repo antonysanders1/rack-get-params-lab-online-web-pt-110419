@@ -29,8 +29,8 @@ class Application
     end
   end
   
+end
+
   get "/cart" do
     @@cart
   end 
-  
-end
