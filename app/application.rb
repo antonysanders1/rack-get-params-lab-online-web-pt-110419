@@ -30,7 +30,3 @@ class Application
   end
   
 end
-
-  get "/cart" do
-    @@cart
-  end 
